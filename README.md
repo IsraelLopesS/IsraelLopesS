@@ -20,4 +20,4 @@
 </div>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiIsraelLopesSanuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsraelLopesS&show_icons=true&theme=dark)
