@@ -19,4 +19,5 @@
   
 </div>
 
-(https://github-readme-stats.vercel.app/apiIsraelLopesSanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiIsraelLopesSanuraghazra&show_icons=true&theme=transparent)
