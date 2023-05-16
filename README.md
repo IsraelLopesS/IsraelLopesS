@@ -3,7 +3,7 @@
 
 **Sobre mim**
 
-- 💼 
+- 💼 Estudante de Engenharia de Software com conhecimentos em Desenvolvimento Web Full Stack.
 
 - ❤️ Adoro codar, criar projetos divertidos e aprender com isso.
 
@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/israells/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
+<br />
 
 | <a href="https://github.com/IsraelLopesS/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=IsraelLopesS&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="A's github stats" /></a> | <a href="https://github.com/IsraelLopesS/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelLopesS&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
