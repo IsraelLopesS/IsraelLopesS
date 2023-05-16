@@ -11,8 +11,8 @@
   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://lh3.googleusercontent.com/pw/AJFCJaVDo4WwqIQ207HvO7VA17zuKeH7STRfrLR9bSNdRPAjgLvpdcelbSSIdl-5JZHEp43q2hiP7w_Iy5yW_LTZPrth8TCCZdFT48cGf9rfM6j0qGOKidbzBdA0-AoOzhDrpg7cQa0R5IOXhRb9Bg9tTy6Xsg=w346-h427-s-no?authuser=0">
 </div>
   
-  ############
-  ########
+  ##
+  ##
  
 <div> 
   <a href = "mailto:israellbbt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -21,8 +21,8 @@
 </div>
 
 
-########
-######
-##########
+##
+##
+##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsraelLopesS&show_icons=true&theme=dark)
