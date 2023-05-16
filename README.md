@@ -13,7 +13,7 @@
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
  <code><img alt="HTML" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-<code><img alt="CSS" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
+<img alt="CSS" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <code><img alt="Python" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 
 <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://lh3.googleusercontent.com/pw/AJFCJaVDo4WwqIQ207HvO7VA17zuKeH7STRfrLR9bSNdRPAjgLvpdcelbSSIdl-5JZHEp43q2hiP7w_Iy5yW_LTZPrth8TCCZdFT48cGf9rfM6j0qGOKidbzBdA0-AoOzhDrpg7cQa0R5IOXhRb9Bg9tTy6Xsg=w346-h427-s-no?authuser=0">
