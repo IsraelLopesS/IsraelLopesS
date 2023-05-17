@@ -25,6 +25,6 @@
 </div>
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=IsraelLopesS&show_icons=true&theme=buefy&hide_border=true" alt="github stats" /></a> | <a href="https://github.com/IsraelLopesS/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelLopesS&layout=compact&theme=buefy&hide_border=true" /></a> |
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=IsraelLopesS&count_private=true&show_icons=true&theme=buefy&hide_border=true" alt="github stats" /></a> | <a href="https://github.com/IsraelLopesS/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelLopesS&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
