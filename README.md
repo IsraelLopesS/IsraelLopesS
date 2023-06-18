@@ -3,7 +3,9 @@
 
 **Sobre mim**
 
-💼 Estudante de Engenharia de Software com conhecimentos em Desenvolvimento Web Full Stack.
+💼 Estudante de Engenharia de Software e Desenvolvimento Back-End.
+
+🎓 Formado em Desenvolvimento Web Full Stack e Direito.
 
 ❤️ Adoro codar, criar projetos divertidos e aprender com isso.
 <br>
