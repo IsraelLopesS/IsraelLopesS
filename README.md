@@ -3,7 +3,7 @@
 
 **Sobre mim**
 
-💼 Estudante de Engenharia de Software e Desenvolvimento Back-End.
+💼 Concluindo Engenharia de Software e Desenvolvimento Back-End.
 
 🎓 Formado em Desenvolvimento Web Full Stack e Direito.
 
