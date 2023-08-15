@@ -2,9 +2,9 @@
 <br>
 
 **Sobre mim**
-💻💼 Desenvolvedor Back-end e Front end
+💼💻 Desenvolvedor Back-end e Front end
 
-📚💻 Concluindo Engenharia de Software.
+📚 Concluindo Engenharia de Software.
 
 🎓 Formado em Desenvolvimento Full Stack e Direito.
 
