@@ -8,9 +8,9 @@
 
 💼💻 Desenvolvedor Back-end e Front end
 
-📚 Concluindo Engenharia de Software.
+🎓 Bacharel em Engenharia da Computação e Direito.
 
-🎓 Formado em Desenvolvimento Full Stack e Direito.
+📚 Formado em diversos cursos de TI, Confira no meu Linkedin.
 
 ❤️ Adoro codar, criar projetos divertidos e aprender com isso.
 <br>
@@ -25,6 +25,15 @@
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img alt="CSS" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
  <code><img alt="Python" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+ <code><img alt="Java" height="20" src="https://www.logo.wine/a/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.svg"></code>
+  <code><img alt="Angular" height="20" src="https://www.svgrepo.com/show/439061/angular.svg"></code>
+   <code><img alt="Spring" height="20" src="https://www.svgrepo.com/show/354380/spring-icon.svg"></code>
+    <code><img alt="AWS" height="20" src="https://www.svgrepo.com/show/331300/aws.svg"></code>
+ <code><img alt="DevOps" height="20" src="https://cdn.worldvectorlogo.com/logos/devops-2.svg"></code>
+  <code><img alt="Kafka" height="20" src="https://www.svgrepo.com/show/353950/kafka.svg"></code>
+  <code><img alt="rabbitmq" height="20" src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg"></code>
+  <code><img alt="docker" height="20" src="https://www.svgrepo.com/show/331370/docker.svg"></code>
+    <code><img alt="git" height="20" src="https://git-scm.com/images/logos/downloads/Git-Icon-Black.png"></code>
 
 
 ##
